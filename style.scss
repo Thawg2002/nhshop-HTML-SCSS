@@ -33,6 +33,9 @@ img {
     margin: 0 22px;
   }
 }
+.header-item-user img:hover {
+  scale: 1.3;
+}
 .main-menu {
   &__list {
     display: flex;
